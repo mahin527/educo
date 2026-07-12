@@ -2,6 +2,12 @@
 
 Educo is a fully responsive, high-performance education portal built with **React JS**, **Vite**, and **Tailwind CSS**. It features smooth navigation, a clean UI for program details, and a functional contact system.
 
+🔗 **Live Preview:** [Educo](https://educo-demo.netlify.app/) <br />
+💻 **GitHub Repository:** [Educo Repo](https://github.com/mahin527/educo/)
+
+---
+
+
 ## 🚀 Key Features
 * **Fully Responsive:** Optimized for Mobile, Tablet, and Desktop views.
 * **Smooth Navigation:** Integrated with `react-scroll` for a seamless single-page experience.
